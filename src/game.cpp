@@ -3,15 +3,15 @@
 /*
 To do:
 
-*   beter orgnize code and add more comits for refrence
+*   better orgnize code and add more commits for reference
         -create enum for sprite sheet or change how sprites are loaded
 
-*   get items textures and sprites all working and conected properly
+*   get items textures and sprites all working and connected properly
 
 *   Add more animales like cows and monsters to fight
         -find sprites for said creatures
 
-*   add abilty to collect resouirces from diging and mineing
+*   add ability to collect resouirces from diging and mineing
 
 *   add tress
 
