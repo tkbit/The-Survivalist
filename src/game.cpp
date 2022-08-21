@@ -17,8 +17,6 @@ To do:
 
 *   add invetory and crafting system
 
-*   setup git project for better versioning and tracking
-
 */
 
 
